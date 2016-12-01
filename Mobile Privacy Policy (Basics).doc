@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main" xmlns:ve="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+  <w:ignoreSubtree w:val="http://schemas.microsoft.com/office/word/2003/wordml/sp2"/>
+  <o:DocumentProperties>
+    <o:Author>Docracy</o:Author>
+    <o:LastAuthor>Docracy</o:LastAuthor>
+    <o:Revision>1</o:Revision>
+    <o:TotalTime>1</o:TotalTime>
+    <o:Created>2011-12-08T18:52:00Z</o:Created>
+    <o:LastSaved>2011-12-08T18:52:00Z</o:LastSaved>
+    <o:Pages>1</o:Pages>
+    <o:Words>1</o:Words>
+    <o:Characters>1</o:Characters>
+    <o:Company>Docracy</o:Company>
+    <o:Lines>1</o:Lines>
+    <o:Paragraphs>1</o:Paragraphs>
+    <o:CharactersWithSpaces>1</o:CharactersWithSpaces>
+    <o:Version>1</o:Version>
+  </o:DocumentProperties>
+  <w:fonts>
+    <w:defaultFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman"/>
+    <w:font w:name="Times New Roman">
+      <w:panose-1 w:val="02020603050405020304"/>
+      <w:charset w:val="00"/>
+      <w:family w:val="auto"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="00000003" w:usb-1="00000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="00000001" w:csb-1="00000000"/>
+    </w:font>
+    <w:font w:name="Arial">
+      <w:panose-1 w:val="020B0604020202020204"/>
+      <w:charset w:val="00"/>
+      <w:family w:val="auto"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="00000003" w:usb-1="00000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="00000001" w:csb-1="00000000"/>
+    </w:font>
+    <w:font w:name="Courier New">
+      <w:panose-1 w:val="02070309020205020404"/>
+      <w:charset w:val="00"/>
+      <w:family w:val="auto"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="00000003" w:usb-1="00000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="00000001" w:csb-1="00000000"/>
+    </w:font>
+    <w:font w:name="Symbol">
+      <w:panose-1 w:val="02000500000000000000"/>
+      <w:charset w:val="02"/>
+      <w:family w:val="auto"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="00000000" w:usb-1="00000000" w:usb-2="00010000" w:usb-3="00000000" w:csb-0="80000000" w:csb-1="00000000"/>
+    </w:font>
+    <w:font w:name="Wingdings">
+      <w:panose-1 w:val="05020102010804080708"/>
+      <w:charset w:val="02"/>
+      <w:family w:val="auto"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="00000000" w:usb-1="00000000" w:usb-2="00010000" w:usb-3="00000000" w:csb-0="80000000" w:csb-1="00000000"/>
+    </w:font>
+  </w:fonts>
+  <w:lists>
+    <w:listDef w:listDefId="0">
+      <w:lsid w:val="1D0B5560"/>
+      <w:plt w:val="HybridMultilevel"/>
+      <w:tmpl w:val="19263082"/>
+      <w:lvl w:ilvl="0" w:tplc="04090001">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="·"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="720" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="·"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="1440" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="·"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="2160" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="·"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="2880" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="·"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="3600" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="·"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="4320" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="·"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="5040" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="·"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="5760" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="·"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="6480" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Wingdings" w:h-ansi="Wingdings" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="1">
+      <w:lsid w:val="27842663"/>
+      <w:plt w:val="HybridMultilevel"/>
+      <w:tmpl w:val="9670E842"/>
+      <w:lvl w:ilvl="0" w:tplc="0409000F">
+        <w:start w:val="1"/>
+        <w:lvlText w:val="%1."/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="720" w:hanging="360"/>
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="0"/>
+        <w:lvlText w:val="%2."/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="1440" w:hanging="360"/>
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="0"/>
+        <w:lvlText w:val="%3."/>
+        <w:lvlJc w:val="right"/>
+        <w:pPr>
+          <w:ind w:left="2160" w:hanging="180"/>
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="0"/>
+        <w:lvlText w:val="%4."/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="2880" w:hanging="360"/>
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="0"/>
+        <w:lvlText w:val="%5."/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="3600" w:hanging="360"/>
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="0"/>
+        <w:lvlText w:val="%6."/>
+        <w:lvlJc w:val="right"/>
+        <w:pPr>
+          <w:ind w:left="4320" w:hanging="180"/>
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:lvlText w:val="%7."/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="5040" w:hanging="360"/>
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="4"/>
+        <w:lvlText w:val="%8."/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="5760" w:hanging="360"/>
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="2"/>
+        <w:lvlText w:val="%9."/>
+        <w:lvlJc w:val="right"/>
+        <w:pPr>
+          <w:ind w:left="6480" w:hanging="180"/>
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:list w:ilfo="1">
+      <w:ilst w:val="0"/>
+    </w:list>
+    <w:list w:ilfo="2">
+      <w:ilst w:val="1"/>
+    </w:list>
+  </w:lists>
+  <w:styles>
+    <w:versionOfBuiltInStylenames w:val="2"/>
+    <w:latentStyles w:defLockedState="off" w:latentStyleCount="276">
+      <w:lsdException w:name="Normal"/>
+      <w:lsdException w:name="heading 1"/>
+      <w:lsdException w:name="heading 2"/>
+      <w:lsdException w:name="heading 3"/>
+      <w:lsdException w:name="heading 4"/>
+      <w:lsdException w:name="heading 5"/>
+      <w:lsdException w:name="heading 6"/>
+      <w:lsdException w:name="heading 7"/>
+      <w:lsdException w:name="heading 8"/>
+      <w:lsdException w:name="heading 9"/>
+      <w:lsdException w:name="caption"/>
+      <w:lsdException w:name="Title"/>
+      <w:lsdException w:name="Subtitle"/>
+      <w:lsdException w:name="Strong"/>
+      <w:lsdException w:name="Emphasis"/>
+      <w:lsdException w:name="No Spacing"/>
+      <w:lsdException w:name="List Paragraph"/>
+    </w:latentStyles>
+    <w:style w:type="paragraph" w:default="on" w:styleId="Normal">
+      <w:name w:val="Normal"/>
+      <w:rsid w:val="001163AA"/>
+      <w:pPr>
+        <w:spacing w:after="200"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman"/>
+        <w:sz w:val="24"/>
+        <w:sz-cs w:val="24"/>
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading1">
+      <w:name w:val="heading 1"/>
+      <wx:uiName wx:val="Heading 1"/>
+      <w:basedOn w:val="Normal"/>
+      <w:next w:val="Normal"/>
+      <w:link w:val="Heading1Char"/>
+      <w:rsid w:val="006767BC"/>
+      <w:pPr>
+        <w:keepNext/>
+        <w:spacing w:before="240" w:after="60"/>
+        <w:outlineLvl w:val="0"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:h-ansi="Arial"/>
+        <wx:font wx:val="Arial"/>
+        <w:b/>
+        <w:b-cs/>
+        <w:kern w:val="32"/>
+        <w:sz w:val="32"/>
+        <w:sz-cs w:val="32"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading2">
+      <w:name w:val="heading 2"/>
+      <wx:uiName wx:val="Heading 2"/>
+      <w:basedOn w:val="Normal"/>
+      <w:next w:val="Normal"/>
+      <w:link w:val="Heading2Char"/>
+      <w:rsid w:val="006767BC"/>
+      <w:pPr>
+        <w:keepNext/>
+        <w:spacing w:before="240" w:after="60"/>
+        <w:outlineLvl w:val="1"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:h-ansi="Arial"/>
+        <wx:font wx:val="Arial"/>
+        <w:b/>
+        <w:b-cs/>
+        <w:i-cs/>
+        <w:sz w:val="28"/>
+        <w:sz-cs w:val="28"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading3">
+      <w:name w:val="heading 3"/>
+      <wx:uiName wx:val="Heading 3"/>
+      <w:basedOn w:val="Normal"/>
+      <w:next w:val="Normal"/>
+      <w:link w:val="Heading3Char"/>
+      <w:rsid w:val="006767BC"/>
+      <w:pPr>
+        <w:keepNext/>
+        <w:spacing w:before="240" w:after="60"/>
+        <w:outlineLvl w:val="2"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:h-ansi="Arial"/>
+        <wx:font wx:val="Arial"/>
+        <w:b/>
+        <w:b-cs/>
+        <w:sz w:val="26"/>
+        <w:sz-cs w:val="26"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont">
+      <w:name w:val="Default Paragraph Font"/>
+    </w:style>
+    <w:style w:type="table" w:default="on" w:styleId="TableNormal">
+      <w:name w:val="Normal Table"/>
+      <wx:uiName wx:val="Table Normal"/>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman"/>
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/>
+      </w:rPr>
+      <w:tblPr>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa"/>
+          <w:left w:w="108" w:type="dxa"/>
+          <w:bottom w:w="0" w:type="dxa"/>
+          <w:right w:w="108" w:type="dxa"/>
+        </w:tblCellMar>
+      </w:tblPr>
+    </w:style>
+    <w:style w:type="list" w:default="on" w:styleId="NoList">
+      <w:name w:val="No List"/>
+    </w:style>
+    <w:style w:type="character" w:styleId="Heading1Char">
+      <w:name w:val="Heading 1 Char"/>
+      <w:basedOn w:val="DefaultParagraphFont"/>
+      <w:link w:val="Heading1"/>
+      <w:rsid w:val="006767BC"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:fareast="Times New Roman" w:h-ansi="Arial" w:cs="Times New Roman"/>
+        <w:b/>
+        <w:b-cs/>
+        <w:kern w:val="32"/>
+        <w:sz w:val="32"/>
+        <w:sz-cs w:val="32"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Heading2Char">
+      <w:name w:val="Heading 2 Char"/>
+      <w:basedOn w:val="DefaultParagraphFont"/>
+      <w:link w:val="Heading2"/>
+      <w:rsid w:val="006767BC"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:fareast="Times New Roman" w:h-ansi="Arial" w:cs="Times New Roman"/>
+        <w:b/>
+        <w:b-cs/>
+        <w:i-cs/>
+        <w:sz w:val="28"/>
+        <w:sz-cs w:val="28"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Heading3Char">
+      <w:name w:val="Heading 3 Char"/>
+      <w:basedOn w:val="DefaultParagraphFont"/>
+      <w:link w:val="Heading3"/>
+      <w:rsid w:val="006767BC"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:fareast="Times New Roman" w:h-ansi="Arial" w:cs="Times New Roman"/>
+        <w:b/>
+        <w:b-cs/>
+        <w:sz w:val="26"/>
+        <w:sz-cs w:val="26"/>
+      </w:rPr>
+    </w:style>
+  </w:styles>
+  <w:divs>
+    <w:div w:id="1777023439">
+      <w:bodyDiv w:val="on"/>
+      <w:marLeft w:val="0"/>
+      <w:marRight w:val="0"/>
+      <w:marTop w:val="0"/>
+      <w:marBottom w:val="0"/>
+      <w:divBdr>
+        <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/>
+        <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/>
+        <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/>
+        <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/>
+      </w:divBdr>
+    </w:div>
+  </w:divs>
+  <w:shapeDefaults>
+    <o:shapedefaults v:ext="edit" spidmax="2050"/>
+    <o:shapelayout v:ext="edit">
+      <o:idmap v:ext="edit" data="1"/>
+    </o:shapelayout>
+  </w:shapeDefaults>
+  <w:docPr>
+    <w:view w:val="print"/>
+    <w:zoom w:percent="150"/>
+    <w:proofState w:spelling="clean" w:grammar="clean"/>
+    <w:defaultTabStop w:val="720"/>
+    <w:displayHorizontalDrawingGridEvery w:val="0"/>
+    <w:displayVerticalDrawingGridEvery w:val="0"/>
+    <w:useMarginsForDrawingGridOrigin/>
+    <w:characterSpacingControl w:val="DontCompress"/>
+    <w:allowPNG/>
+    <w:doNotSaveWebPagesAsSingleFile/>
+    <w:savePreviewPicture/>
+    <w:validateAgainstSchema w:val="off"/>
+    <w:saveInvalidXML w:val="off"/>
+    <w:ignoreMixedContent w:val="off"/>
+    <w:alwaysShowPlaceholderText w:val="off"/>
+    <w:doNotUnderlineInvalidXML/>
+    <w:compat>
+      <w:breakWrappedTables/>
+      <w:snapToGridInCell/>
+      <w:wrapTextWithPunct/>
+      <w:useAsianBreakRules/>
+      <w:dontGrowAutofit/>
+    </w:compat>
+    <wsp:rsids>
+      <wsp:rsidRoot wsp:val="00195B44"/>
+    </wsp:rsids>
+  </w:docPr>
+<w:body><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading2" /></w:pPr><w:r><w:t>PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED" /><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>This privacy policy governs your use of the software application </w:t></w:r><w:r><w:t>APP NAME</w:t></w:r><w:r><w:t> (“Application”) for mobile devices that was created by </w:t></w:r><w:r><w:t>El Mehdi LAIDOUNI</w:t></w:r><w:r><w:t>. The Application is </w:t></w:r><w:r><w:t>### DESCRIPTION ###</w:t></w:r><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:t>What information does the Application obtain and how is it used?</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED" /><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:rPr><w:b /></w:rPr><w:t>User Provided Information</w:t></w:r><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED" /><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>When you register with us and use the Application, you generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Application, and; (e) information you enter into our system when using the Application, such as contact information and project management information.</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED" /><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:rPr><w:b /></w:rPr><w:t>Automatically Collected Information</w:t></w:r><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application. </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED" /><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:t>Does the Application collect precise real time location information of the device?</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED" /><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>This Application does not collect precise information about the location of your mobile device. </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:t>Do third parties see and/or have access to information obtained by the Application?</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED" /><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service. We will share your information with third parties only in the ways that are described in this privacy statement.</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>We may disclose User Provided and Automatically Collected Information:</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t></w:t></w:r><w:r><w:t> </w:t></w:r><w:r><w:t> </w:t></w:r><w:r><w:t> </w:t></w:r><w:r><w:t></w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:listPr><w:ilvl w:val="0" /><w:ilfo w:val="1" /><wx:t wx:val="·" /><wx:font wx:val="Symbol" /></w:listPr></w:pPr><w:r><w:t></w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>as required by law, such as to comply with a subpoena, or similar legal process;</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:listPr><w:ilvl w:val="0" /><w:ilfo w:val="1" /><wx:t wx:val="·" /><wx:font wx:val="Symbol" /></w:listPr></w:pPr><w:r><w:t></w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:listPr><w:ilvl w:val="0" /><w:ilfo w:val="1" /><wx:t wx:val="·" /><wx:font wx:val="Symbol" /></w:listPr></w:pPr><w:r><w:t></w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:listPr><w:ilvl w:val="0" /><w:ilfo w:val="1" /><wx:t wx:val="·" /><wx:font wx:val="Symbol" /></w:listPr></w:pPr><w:r><w:t></w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>if </w:t></w:r><w:r><w:t>El Mehdi LAIDOUNI</w:t></w:r><w:r><w:t> is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED" /><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:t>What are my opt-out rights?</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED" /><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at </w:t></w:r><w:r><w:t>ElMehdimobi@gmail.com</w:t></w:r><w:r><w:t>.</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:rPr><w:b /></w:rPr><w:t>Data Retention Policy, Managing Your Information</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to </w:t></w:r><w:r><w:t>24 months</w:t></w:r><w:r><w:t> and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at </w:t></w:r><w:r><w:t>ElMehdimobi@gmail.com</w:t></w:r><w:r><w:t>and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:rPr><w:b /></w:rPr><w:t>Children</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED" /><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at </w:t></w:r><w:r><w:t>ElMehdimobi@gmail.com</w:t></w:r><w:r><w:t>. We will delete such information from our files within a reasonable time.</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:rPr><w:b /></w:rPr><w:t>Security</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED" /><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:rPr><w:b /></w:rPr><w:t>Changes</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy </w:t></w:r><w:r><w:t>here</w:t></w:r><w:r><w:t> and </w:t></w:r><w:r><w:t>informing you via email or text message</w:t></w:r><w:r><w:t>. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by </w:t></w:r><w:r><w:t>clicking here</w:t></w:r><w:r><w:t>.</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:rPr><w:b /></w:rPr><w:t>Your Consent</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the </w:t></w:r><w:r><w:t>United States</w:t></w:r><w:r><w:t>. If you reside outside the </w:t></w:r><w:r><w:t>United States</w:t></w:r><w:r><w:t> your information will be transferred, processed and stored there under </w:t></w:r><w:r><w:t>United States</w:t></w:r><w:r><w:t> privacy standards. </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:pPr><w:pStyle w:val="Heading3" /></w:pPr><w:r><w:t>Contact us</w:t></w:r></w:p><w:p wsp:rsidR="004429ED" wsp:rsidRDefault="00000000" wsp:rsidP="004429ED"><w:r><w:t>If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at </w:t></w:r><w:r><w:t>ElMehdimobi@gmail.com</w:t></w:r><w:r><w:t>.</w:t></w:r></w:p></w:body>
+</w:wordDocument>
